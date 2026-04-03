@@ -1,4 +1,6 @@
 # 📚 Hybrid Semantic Retrieval and Recommendation System (RAG + CF)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue)
 
 ## 🚀 Overview
 
